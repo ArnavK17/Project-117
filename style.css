@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+#score{
+    font-size: 20px;
+    margin-right: 990px;
+}
+#timer{
+    font-size: 20px;
+    
+
+}
+#drawn{
+    color: #ff0000;
+}
